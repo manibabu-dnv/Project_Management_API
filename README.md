@@ -19,16 +19,18 @@ A simple Spring Boot REST API to manage products, built for learning and demonst
 
 ## 📁 Project Structure
 
-demo/
-├── src/
-│ ├── main/
-│ │ ├── java/
-│ │ │ ├── com.example.demo/ # Main app and model
-│ │ │ ├── controllayer/ # Controller classes
-│ │ │ ├── Service/ # Service layer
-│ │ │ └── Repositry/ # Repository interfaces
-│ │ └── resources/
-│ │ └── application.properties # App configuration
-│ └── test/
-│ └── java/com.example.demo/ # Test class
-├── pom.xml # Maven configuration
+demo/<br>
+├── src/<br>
+│ ├── main/<br>
+│ │ ├── java/<br>
+│ │ │ ├── com.example.demo/ # Main app and model<br>
+│ │ │ ├── controllayer/ # Controller classes<br>
+│ │ │ ├── Service/ # Service layer<br>
+│ │ │ └── Repositry/ # Repository interfaces<br>
+│ │ └── resources/<br>
+│ │ └── application.properties # App configuration<br>
+│ └── test/<br>
+│ └── java/com.example.demo/ # Test class<br>
+├── pom.xml # Maven configuration<be>
+
+
