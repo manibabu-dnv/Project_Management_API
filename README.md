@@ -34,3 +34,20 @@ demo/<br>
 ├── pom.xml # Maven configuration<be>
 
 
+## 📡 API Endpoints
+
+
+| Method | Endpoint        | Description         |
+|--------|-----------------|---------------------|
+| GET    | `/products`     | Get all products    |
+| POST   | `/products`     | Create a new product |
+| PUT    | `/products/{id}`| Update a product     |
+| DELETE | `/products/{id}`| Delete a product     |
+
+
+## ⚙️ Getting Started
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/manibabu-dnv/Project_Management_API.git
+
