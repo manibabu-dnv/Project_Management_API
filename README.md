@@ -51,3 +51,19 @@ demo/<br>
    ```bash
    git clone https://github.com/manibabu-dnv/Project_Management_API.git
 
+2. **Navigate into the project**
+   ```bash
+   cd ProjectManagementAPI-main/demo
+
+3. **Run the application**
+   ```bash
+   ./mvnw spring-boot:run
+
+4. **Access the API**
+   ```bash
+   http://localhost:8080/products
+
+5. **Testing**
+   ```bash
+   ./mvnw test
+
